@@ -1,0 +1,70 @@
+body {
+    background-color: rgb(240, 222, 225);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+}
+
+.container {
+    text-align: center;
+    padding: 20px;
+}
+
+.image img {
+    display: flex;
+    justify-self: center;
+    width: 200px;
+    height: 200px;
+    margin: 30px;
+    border-radius: 50%;
+}
+
+.info h1 {
+    color:rgb(85, 9, 147);
+    display: flex;
+    justify-content: center;
+}
+
+.info h2 {
+    color: rgb(102, 5, 102);
+}
+
+.info2 {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.info2 h3 {
+    color:rgb(40, 31, 213);
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: center;    
+}
+
+.bio {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: larger;
+}
+
+.link {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 15px;
+}
+
+button {
+    border: solid 2px rgb(114, 114, 223);
+    color: blue;
+    border-radius: 5px;
+}
+
+button:hover {
+    border: solid 2px rgb(206, 37, 178);
+    color: rgb(218, 86, 178);
+}

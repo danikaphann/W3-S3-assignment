@@ -1,0 +1,14 @@
+button {
+    background-color: rgb(234, 57, 136);
+    color: rgb(247, 236, 223);
+    border: solid 2px rgb(37, 228, 23);
+    border-radius: 10px;
+    width: 10vw;
+    height: 7vh;
+}
+
+button:hover {
+    background-color: rgb(143, 36, 97);
+    color: rgb(234, 234, 234);
+    border: solid 2px rgb(94, 165, 201);
+}
