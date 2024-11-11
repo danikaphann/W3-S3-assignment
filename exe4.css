@@ -9,6 +9,8 @@ body {
 .container {
     text-align: center;
     padding: 20px;
+    border: solid 3px purple;
+    margin: 50px;
 }
 
 .image img {
